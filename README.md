@@ -1,4 +1,3 @@
----
 ### Important Topics for the Upcoming 60-Mark Exam
 
 #### 1. Understanding Communication
